@@ -1,0 +1,8 @@
+.header-title {
+  cursor: pointer;
+}
+/* Spécifique au logo de gauche */
+.navbar .container img:first-child {
+  width: 150px; /* Un peu plus large pour ce logo spécifique */
+  max-height: 100px;
+}
